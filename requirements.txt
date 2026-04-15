@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+python-gnupg
+smtplib
+os
+subprocess
+rich
+textual
+time
+random
